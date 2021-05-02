@@ -1,0 +1,23 @@
+.container{
+  &.faq{
+    height: 100%;
+    .row{
+      height: 100%;
+      .col-12{
+        padding: 0 15%;
+        .sezione{
+          margin-bottom: 70px;
+          h2{
+            font-size: 24px;
+          }
+          p{
+            font-size: 14px;
+            span{
+              color: $color-lightblue;
+            }
+          }
+        }
+      }
+    }
+  }
+}

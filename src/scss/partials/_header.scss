@@ -1,0 +1,50 @@
+.container{
+  max-width: 100%;
+  &.title{
+    height: 50px;
+    margin-left: 15px;
+    .row{
+      height: 100%;
+      .col-12{
+        height: 100%;
+        @include flex-r-start-c;
+        img{
+          height: 25px;
+        }
+        h3{
+          font-size: 25px;
+          color: $color-grey-scuro;
+          margin-bottom: 5px;
+          font-weight: 400;
+        }
+      }
+    }
+  }
+  &.menu{
+    margin: 0px;
+    height: 30px;
+    border-bottom: 1px solid lightgrey;
+    .row{
+      height: 100%;
+      .col-12{
+        height: 100%;
+        margin-left: 15px;
+        ul{
+          padding-left: 0px;
+          @include flex-r-start-c;
+          list-style: none;
+          li{
+            margin-right: 30px;
+            a{
+              text-decoration: none;
+              list-style: none;
+              font-size: 15px;
+              font-weight: 500;
+              color: $color-grey-scuro;
+            }
+          }
+        }
+      }
+    }
+  }
+}
