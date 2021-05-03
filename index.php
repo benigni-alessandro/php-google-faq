@@ -30,7 +30,7 @@
         'Tu cuenta se asocia a un país (o territorio) en los Términos del Servicio para poder determinar dos cosas: <br>
         <ol>
            <li>La entidad asociada de Google que proporciona los servicios, trata tu información y es responsable de cumplir con las leyes de privacidad aplicables. Por lo general, Google ofrece sus servicios para consumidores a través de estas dos empresas:
-              <ol>
+              <ol type="a">
                  <li>Google Ireland Limited, si el usuario se encuentra en el Espacio Económico Europeo (países de la UE, Islandia, Liechtenstein y Noruega) o en Suiza</li>
                  <li>Google LLC, con sede en Estados Unidos, si el usuario se encuentra en cualquier otra parte del mundo</li>
               </ol>
