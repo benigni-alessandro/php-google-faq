@@ -41,6 +41,19 @@
               font-size: 15px;
               font-weight: 500;
               color: $color-grey-scuro;
+              &.active{
+                color: $color-lightblue;
+                position: relative;
+                &::before{
+                  content: '';
+                  border: 1px solid $color-lightblue;
+                  width: 150px;
+                  height: 0px;
+                  position: absolute;
+                  left: -9px;
+                  bottom: 0;
+                }
+              }
             }
           }
         }

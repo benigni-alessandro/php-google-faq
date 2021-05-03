@@ -58,6 +58,19 @@
   font-weight: 500;
   color: #5f6368;
 }
+.container.menu .row .col-12 ul li a.active {
+  color: #3A6CD7;
+  position: relative;
+}
+.container.menu .row .col-12 ul li a.active::before {
+  content: "";
+  border: 1px solid #3A6CD7;
+  width: 150px;
+  height: 0px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
 
 .container.faq {
   height: 100%;
@@ -147,4 +160,5 @@ main {
   color: white;
   background-color: #3A6CD7;
   padding: 2px;
+  position: relative;
 }

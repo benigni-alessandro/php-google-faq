@@ -88,7 +88,7 @@
               <li><a href="#">Política de Privacidad</a></li>
               <li><a href="#">Condiciones de Servicio</a></li>
               <li><a href="#">Tecnologías</a></li>
-              <li><a href="#">Preguntas frecuentes</a></li>
+              <li><a class="active" href="#">Preguntas frecuentes</a></li>
             </ul>
           </div>
 
