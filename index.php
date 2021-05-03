@@ -41,7 +41,7 @@
 
 
       ],
-      'info2' =>['<h4>Determinar el país asociado a tu cuenta</h4>
+      'info2' =>['<h5>Determinar el país asociado a tu cuenta</h5>
                   <p>Cuando creas una cuenta de Google, la asociamos a un país en función de dónde la creaste. Las cuentas que hayas creado hace más de un año se asocian al país desde el que sueles acceder a los servicios de Google. Suele ser el país en el que has estado la mayor parte del tiempo durante el último año.</p>
                   <p>Por lo general, viajar frecuentemente no afecta al país asociado a la cuenta. Si te mudas a otro país, podemos tardar aproximadamente un año en actualizar el país asociado a tu cuenta.</p>
                   <p>Si el país asociado a tu cuenta no coincide con tu país de residencia, puede deberse a que vives en un país y trabajas en otro, a que has instalado una red privada virtual (VPN) para enmascarar tu dirección IP, o a que vives cerca de una frontera entre territorios. Si crees que el país asociado a tu cuenta no es correcto, <span>ponte en contacto con nosotros<i class="fas fa-external-link-alt"></i></span></p>'                                                                                                  ]
